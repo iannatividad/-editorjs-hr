@@ -48,24 +48,13 @@ class HrTool {
 
         HR.classList.add(this._CSS.wrapper, this._CSS.block);
 
-        return div;
+        return HR;
     }
 
-    /**
-     * Return Tool's view
-     * @returns {HTMLDivElement}
-     * @public
-     */
     render() {
         return this._element;
     }
 
-    /**
-     * Extract Tool's data from the view
-     * @param {HTMLDivElement} toolsContent - Paragraph tools rendered view
-     * @returns {DelimiterData} - saved data
-     * @public
-     */
     save(toolsContent) {
         return {};
     }

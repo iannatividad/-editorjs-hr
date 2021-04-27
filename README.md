@@ -9,13 +9,13 @@ Hr Tool for the [Editor.js]
 Get the package
 
 ```shell
-npm i --save-dev @editorjs/hr
+npm i --save-dev @ignweb/hr-tool
 ```
 
 Include module at your application
 
 ```javascript
-const Hr = require("@ignweb/hr");
+const Hr = require("@ignweb/hr-tool");
 ```
 
 ### Download to your project's source dir

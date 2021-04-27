@@ -1,13 +1,6 @@
 {
-    "name": "@ignweb/hr",
-    "version": "1.2.2",
-    "keywords": [
-        "codex editor",
-        "hr",
-        "tool",
-        "editor.js",
-        "editorjs"
-    ],
+    "name": "@ignweb/hr-tool",
+    "version": "1.0.1",
     "description": "Horizontal rule Tool for Editor.js",
     "license": "MIT",
     "main": "./dist/bundle.js",
