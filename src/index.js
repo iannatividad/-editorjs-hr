@@ -87,4 +87,4 @@ class HrTool {
     }
 }
 
-module.exports = HrHrTool;
+module.exports = HrTool;

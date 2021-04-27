@@ -1,5 +1,5 @@
 {
-    "name": "@editorjs/hr",
+    "name": "@ignweb/hr",
     "version": "1.2.0",
     "keywords": [
         "codex editor",
@@ -25,5 +25,15 @@
         "style-loader": "^0.21.0",
         "webpack": "^4.29.5",
         "webpack-cli": "^3.2.3"
-    }
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iannatividad/-editorjs-hr.git"
+    },
+    "author": "",
+    "bugs": {
+        "url": "https://github.com/iannatividad/-editorjs-hr/issues"
+    },
+    "homepage": "https://github.com/iannatividad/-editorjs-hr#readme"
 }
