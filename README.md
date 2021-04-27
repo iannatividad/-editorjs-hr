@@ -15,7 +15,7 @@ npm i --save-dev @editorjs/hr
 Include module at your application
 
 ```javascript
-const Hr = require("@editorjs/hr");
+const Hr = require("@ignweb/hr");
 ```
 
 ### Download to your project's source dir
