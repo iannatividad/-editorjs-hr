@@ -1,6 +1,6 @@
 {
     "name": "@ignweb/hr-tool",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Horizontal rule Tool for Editor.js",
     "license": "MIT",
     "main": "./dist/bundle.js",
